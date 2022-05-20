@@ -9,3 +9,6 @@
 
 
 ## 📚 Reference
+| Category | Detail | URL |
+| :------: | :------------: | :--: | 
+| Site | Funncy's Blog | https://funncy.github.io/python/2020/10/23/gps-analysis/ |
